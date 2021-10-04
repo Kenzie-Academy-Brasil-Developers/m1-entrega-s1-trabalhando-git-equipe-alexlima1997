@@ -2,6 +2,6 @@
 
 ## Fato sobre Vitor
 
-1. Vitor Geraldi 
-2. Tenho 21 anos, atualmente curso Química na USP. Gosto de assistir esportes, e sair para barzinho e social. Moro com meus pais e tenho uma gatinha chamada Madalena.
-3. Meu conhecimento atual de TI é praticamente zero, tudo que sei estou aprendendo com a Kenzie. Meu interesse pela área se deu pelas oportunidades no mercado de trabalho.
+1. Vitor Geraldi
+2. Tenho 21 anos, moro em Santo André. Sou estudante de Química, gosto de ver esportes e sair para barzinho e social.
+3. Meu conhecimento de TI é basicamente zero, tudo que sei estou aprendendo aqui na Kenzie. 
