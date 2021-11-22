@@ -1,28 +1,13 @@
-# Trabalhando em Equipe com GIT
+#Entrega: Trabalhando em equipe com git.
 
-## Como fazer?
+## Fato sobre Vitor
 
-Nessa entrega vocês terão de usar todo seu conhecimento em GIT para trabalhar em equipe.
+1. Vitor Geraldi
+2. Tenho 21 anos, moro em Santo André. Sou estudante de Química, gosto de ver esportes e sair para barzinho e social.
+3. Meu conhecimento de TI é basicamente zero, tudo que sei estou aprendendo aqui na Kenzie. 
+## Fato sobre <Alexandre Lima>
 
-Vocês deverão descrever um pouco mais sobre o seu relacionamento com a TI. Comente algo como "Escolhi a TI porque..." ou "Meu conhecimento em TI é..." para que seus colegas entendam seu relacionamento com a área.
-
-Cada pessoa deve ter ao menos 1 entrada.
-
-
-Cada entrada deverá ter ao menos:
-1. O seu nome.
-2. Imagem sua ou que represente algo relacionado ao seu hobbie.
-3. Comentário sobre o seu relacionamento com a TI.
-
-__O uso de Branches é obrigatório.__
-
-## Como Enviar?
-
-Depois que todas as pessoas da equipe terminarem o projeto, revisem os passos a seguir no seu projeto e confira se estão corretos:
-
-- [x] Enviar o link do Repositório;
-
-
-## Links
-
-Tenha certeza de enviar o link do repositório do Github.
+1. Alexandre Lima;
+2. Curso análise e desenvolvimento de sistemas, tenho 23 anos, sou legal kkk;
+3. Já tinha estudado antes um pouco 4 meses, atrás, acho muito massa tecnologia, quero ser o novo tony stark, kkkk, mentira, quero apenas aprender a criar sites para fazer uma loja online pra
+minha irmã.;
